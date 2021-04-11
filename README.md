@@ -1,6 +1,6 @@
-# Mocies Service
+# Movies Service
 
-A django app where u can add a lot of diffrent Dishes and diffrent Menus
+A python script to save your favourite films in CSV file!
 
 ## Tech
 * [Python3]() 
