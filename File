@@ -1,0 +1,64 @@
+Title,Year,Rating
+Monty,1994,4.4
+Title,Year,Rating
+Inception,2010,8.8
+Title,Year,Rating
+LOL,2012,4.4
+Title,Year,Rating
+Inception,2010,8.8
+Title,Year,Rating
+Inception,2010,8.8
+Title,Year,Rating
+Inception,2010,8.8
+Title,Year,Rating
+Inception,2010,8.8
+Title,Year,Rating
+American Pie,1999,7.0
+Title,Year,Rating
+God Father,2020,5.6
+Title,Year,Rating
+When Harry Met Sally...,1989,7.6
+Title,Rating
+Monty,4.4
+Title,Year,Rating
+American Pie,1999,7.0
+Title,Year,Rating
+Citizen Kane,1941,8.3
+Title,Year,Rating
+American Pie 2,2001,6.4
+Title,Year,Rating
+American Wedding,2003,6.3
+Title,Year,Rating
+American Reunion,2012,6.7
+Title,Year,Rating
+American Pie Presents: The Naked Mile,2006,5.2
+Title,Year,Rating,Box office 
+American Pie,1999,7.0,"{'Budget': '$11,000,000 (estimated)', 'Opening Weekend United States': '$18,709,680, 11 Jul 1999', 'Cumulative Worldwide Gross': '$132,922,000'}"
+Title,Year,Rating,Box office 
+Inception,2010,8.8,"{'Budget': '$160,000,000 (estimated)', 'Opening Weekend United States': '$62,785,337, 18 Jul 2010', 'Cumulative Worldwide Gross': '$825,532,764, 06 Jan 2011'}"
+Title,Year,Rating,Box office 
+Inception,2010,8.8,"{'Budget': '$160,000,000 (estimated)', 'Opening Weekend United States': '$62,785,337, 18 Jul 2010', 'Cumulative Worldwide Gross': '$825,532,764, 06 Jan 2011'}"
+Title,Year,Rating,Box office 
+The Avengers,2012,8.0,"{'Budget': '$220,000,000 (estimated)', 'Opening Weekend United States': '$207,438,708, 06 May 2012', 'Cumulative Worldwide Gross': '$1,517,935,897, 31 Dec 2012'}"
+Title,Year,Rating,Box office 
+The Hangover,2009,7.7,"{'Budget': '$35,000,000 (estimated)', 'Opening Weekend United States': '$44,979,319, 07 Jun 2009', 'Cumulative Worldwide Gross': '$467,483,912, 17 Dec 2009'}"
+Title,Year,Rating,Box office 
+The Avengers,2012,8.0,"{'Budget': '$220,000,000 (estimated)', 'Opening Weekend United States': '$207,438,708, 06 May 2012', 'Cumulative Worldwide Gross': '$1,517,935,897, 31 Dec 2012'}"
+Title,Year,Rating,Box office 
+The Lord of the Rings: The Fellowship of the Ring,2001,8.8,"{'Budget': '$93,000,000 (estimated)', 'Opening Weekend New Zealand': 'NZD2,945,822, 26 Dec 2001', 'Cumulative Worldwide Gross': '$871,530,324, 25 Nov 2011'}"
+Title,Year,Rating,Box office 
+The Lord of the Rings: The Two Towers,2002,8.7,"{'Budget': '$94,000,000 (estimated)', 'Opening Weekend New Zealand': 'NZD3,004,178, 25 Dec 2002', 'Cumulative Worldwide Gross': '$926,047,111, 25 Nov 2011'}"
+Title,Year,Rating,Box office 
+The Hobbit,1977,6.8,"{'Budget': '$3,000,000 (estimated)'}"
+Title,Year,Rating,Box office 
+American Pie,1999,7.0,"{'Budget': '$11,000,000 (estimated)', 'Opening Weekend United States': '$18,709,680, 11 Jul 1999', 'Cumulative Worldwide Gross': '$132,922,000'}"
+Title,Year,Rating,Box office 
+American Pie,1999,7.0,"{'Budget': '$11,000,000 (estimated)', 'Opening Weekend United States': '$18,709,680, 11 Jul 1999', 'Cumulative Worldwide Gross': '$132,922,000'}"
+Title,Year,Rating,Box office 
+American Dream,2021,4.4,"{'Budget': '$500,000 (estimated)'}"
+Title,Year,Rating,Box office 
+American Dream,2021,4.4,"{'Budget': '$500,000 (estimated)'}"
+Title,Year,Rating,Box office 
+Citizen Kane,1941,8.3,"{'Budget': '$839,727 (estimated)', 'Opening Weekend United States': '$216,239, 05 May 1991'}"
+Title,Year,Rating,Box office 
+Inception,2010,8.8,"{'Budget': '$160,000,000 (estimated)', 'Opening Weekend United States': '$62,785,337, 18 Jul 2010', 'Cumulative Worldwide Gross': '$825,532,764, 06 Jan 2011'}"

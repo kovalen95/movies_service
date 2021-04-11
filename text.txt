@@ -1,0 +1,21 @@
+# Your task will be to create a command line application that will download and process information about movies.
+#
+# Functional requirements:
+#
+# – The script / application is to accept the list of movie titles and then download the data that we save. The data can be saved to a json, csv file or database.
+# – Ability to display a list of titles of saved movies in the terminal.
+# – Ability to display the best rated IMDB movie in the terminal.
+# – Ability to display the highest-grossing movie in the terminal.
+# – Ability to view the average rating of saved videos.
+#
+# Non-functional requirements:
+#
+
+# – The solution is to include a README.md file with information about the project and instructions on how to use the script / application.
+# – Tests are not compulsory, but it will be a big plus.
+# – Command results should be displayed in the terminal.
+# – For the solution, you should use http://www.omdbapi.com/ , to be able to send inquiries generate the KEY API (it is completely free), more info on the given page.
+#
+# If you have any questions, feel free to contact us.
+#
+
